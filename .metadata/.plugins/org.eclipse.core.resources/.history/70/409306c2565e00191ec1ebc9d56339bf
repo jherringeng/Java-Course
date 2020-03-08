@@ -1,0 +1,22 @@
+
+public class EmployeeWorking {
+	
+	float earnings;
+	String worksOn;
+	
+	public float earn() {
+		
+		
+		return earnings;
+		
+	}
+
+	
+	public String work() {
+		
+		
+		return worksOn;
+		
+	}
+	
+}
